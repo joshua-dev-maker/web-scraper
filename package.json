@@ -1,0 +1,16 @@
+{
+  "name": "webscraping",
+  "version": "1.0.0",
+  "description": "this helps in Scrapping data from a website",
+  "main": "app.js",
+  "author": "joshuaojo",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cheerio": "^1.0.0-rc.12",
+    "express": "^4.18.1"
+  }
+}
